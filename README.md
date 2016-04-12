@@ -1,1 +1,3 @@
-# desk_light
+# desk\_light
+
+A NeoPixel desk light system.
